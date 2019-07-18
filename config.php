@@ -2,8 +2,8 @@
 
 $db_host = "mysql.rackhost.hu";
 $db_user = "c12500peterhell9";
-$db_pass = "kampecaSS88";
-$db_name = "c12500adatbazis";
+$db_pass = "";
+$db_name = "";
 
 try {    
     //create PDO connection 
